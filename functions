@@ -12,3 +12,4 @@ int main() {                 // Main function starts
 int add(int x, int y) {      // Defines add function
     return x + y;            // Returns sum of x and y
 }
+
